@@ -1,17 +1,28 @@
 .one {
-  width: 500px;
   background-color: brown;
   display: flex;
+  justify-content: space-around;
   font-family: monospace;
-  color: white;
   position: relative;
 }
 .oneHeader {
   background-color: brown;
+  /* margin-right: 350px; */
 }
 .twoHeader {
   position: absolute;
   display: flex;
   padding: 5px;
-  margin-left: 400px;
+  /* margin-right: -250px; */
+  /* margin-top: 14px; */
+  margin: 14px;
+  margin-right: 350px;
+  /* border-radius: 20%; */
+  font-size: 16px;
+  border: 2px solid #4caf50;
+  transition-duration: 0.4s;
+}
+.twoHeader:hover {
+  background-color: #4caf50; /* Green */
+  color: white;
 }
