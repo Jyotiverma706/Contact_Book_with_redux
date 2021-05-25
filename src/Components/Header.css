@@ -1,0 +1,17 @@
+.one {
+  width: 500px;
+  background-color: brown;
+  display: flex;
+  font-family: monospace;
+  color: white;
+  position: relative;
+}
+.oneHeader {
+  background-color: brown;
+}
+.twoHeader {
+  position: absolute;
+  display: flex;
+  padding: 5px;
+  margin-left: 400px;
+}

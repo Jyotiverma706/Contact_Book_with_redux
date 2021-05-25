@@ -1,0 +1,25 @@
+.Two {
+  background-color: darkcyan;
+  margin: 50px;
+  width: 380px;
+}
+.oneInput {
+  padding: 5px;
+  margin: 5px;
+  width: 350px;
+}
+.twoInput {
+  padding: 5px;
+  margin: 5px;
+  width: 350px;
+}
+.threeInput {
+  padding: 5px;
+  margin: 5px;
+  width: 350px;
+}
+.oneBtn {
+  padding: 10px;
+  margin: 5px;
+  color: chocolate;
+}

@@ -1,0 +1,16 @@
+.oneEdit {
+  background-color: darkcyan;
+  margin: 50px;
+  padding: 10px;
+  width: 380px;
+}
+.input {
+  margin: 5px;
+  width: 350px;
+  padding: 5px;
+}
+.editBtn {
+  padding: 5px;
+  margin: 10px;
+  color: green;
+}
